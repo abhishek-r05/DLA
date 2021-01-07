@@ -1,0 +1,4 @@
+python run.py 250,10000,0.01
+python run.py 250,10000,0.1
+python run.py 250,10000,0.5
+python run.py 250,10000,1
